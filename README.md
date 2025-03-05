@@ -1,2 +1,2 @@
 # htmk-portolio
-html portfolio project  
+Simple html portfolio project
